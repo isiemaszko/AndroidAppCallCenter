@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Call Center Forgastro</string>
+    <string name="scanner_qr">Nakieruj skaner na kod QR, aby zeskanować</string>
+    <string name="take_picture">Skanuj kod QR</string>
+    <string name="text_phone_number">Numer</string>
+    <string name="qrcodenotfound">Nie zarejestrowano kodu QR</string>
+    <string name="permisionGranded">Udzielono pozwolenia</string>
+    <string name="permisionDenied">Odmowa dostępu</string>
+    <string name="success_sending">Poprawnie wysłano dane do servera</string>
+    <string name="not_found">Coś poszło nie tak z wysłaniem danych do servera</string>
+    <string name="poweed">powered by forgastro.pl</string>
+    <string name="instruction">Aby połączyć się z systemem Forgastro wejdź w ustawienia Call Center.</string>
+    <string name="instructionVol2">Użyj ikonki skanera, zeskanuj kod QR z ustawień, aby aktywować telefon w tryb Call Center.</string>
+    <string name="statusConnection">Status połączenia </string>
+    <string name="connection">Połączono z </string>
+    <string name="notconnection">Brak połączenia</string>
+    <string name="expiredConnection">Połączenie wygasło</string>
+</resources>
